@@ -68,6 +68,7 @@
     },
     "meta": {
         "name": "2 Petera",
+        "order": 60,
         "chapter_number": 3
     }
 }

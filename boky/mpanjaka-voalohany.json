@@ -861,6 +861,7 @@
     },
     "meta": {
         "name": "Mpanjaka Voalohany",
+        "order": 10,
         "chapter_number": 22
     }
 }

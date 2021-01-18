@@ -466,6 +466,7 @@
     },
     "meta": {
         "name": "Romanina",
+        "order": 44,
         "chapter_number": 16
     }
 }

@@ -63,6 +63,7 @@
     },
     "meta": {
         "name": "Habakoka",
+        "order": 34,
         "chapter_number": 3
     }
 }

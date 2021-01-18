@@ -914,6 +914,7 @@
     },
     "meta": {
         "name": "Levitikosy",
+        "order": 2,
         "chapter_number": 27
     }
 }

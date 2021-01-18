@@ -433,6 +433,7 @@
     },
     "meta": {
         "name": "Nehemia",
+        "order": 15,
         "chapter_number": 13
     }
 }

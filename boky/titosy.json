@@ -53,6 +53,7 @@
     },
     "meta": {
         "name": "Titosy",
+        "order": 55,
         "chapter_number": 3
     }
 }

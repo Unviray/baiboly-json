@@ -470,6 +470,7 @@
     },
     "meta": {
         "name": "1 Korintianina",
+        "order": 45,
         "chapter_number": 16
     }
 }

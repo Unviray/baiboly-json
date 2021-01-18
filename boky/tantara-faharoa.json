@@ -895,6 +895,7 @@
     },
     "meta": {
         "name": "Tantara Faharoa",
+        "order": 13,
         "chapter_number": 36
     }
 }

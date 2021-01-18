@@ -1294,6 +1294,7 @@
     },
     "meta": {
         "name": "Eksodosy",
+        "order": 1,
         "chapter_number": 40
     }
 }

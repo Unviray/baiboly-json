@@ -1425,6 +1425,7 @@
     },
     "meta": {
         "name": "Isaia",
+        "order": 22,
         "chapter_number": 66
     }
 }

@@ -226,6 +226,7 @@
     },
     "meta": {
         "name": "Hosea",
+        "order": 27,
         "chapter_number": 14
     }
 }

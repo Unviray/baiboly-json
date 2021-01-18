@@ -449,6 +449,7 @@
     },
     "meta": {
         "name": "Apokalypsy",
+        "order": 65,
         "chapter_number": 22
     }
 }

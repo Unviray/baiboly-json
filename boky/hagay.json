@@ -43,6 +43,7 @@
     },
     "meta": {
         "name": "Hagay",
+        "order": 36,
         "chapter_number": 2
     }
 }

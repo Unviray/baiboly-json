@@ -1155,6 +1155,7 @@
     },
     "meta": {
         "name": "Joba",
+        "order": 17,
         "chapter_number": 42
     }
 }

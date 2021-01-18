@@ -60,6 +60,7 @@
     },
     "meta": {
         "name": "Zefania",
+        "order": 35,
         "chapter_number": 3
     }
 }

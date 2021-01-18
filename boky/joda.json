@@ -28,6 +28,7 @@
     },
     "meta": {
         "name": "Joda",
+        "order": 64,
         "chapter_number": 1
     }
 }

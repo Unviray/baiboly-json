@@ -28,6 +28,7 @@
     },
     "meta": {
         "name": "Filemona",
+        "order": 56,
         "chapter_number": 1
     }
 }

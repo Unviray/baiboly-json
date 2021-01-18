@@ -57,6 +57,7 @@
     },
     "meta": {
         "name": "Jona",
+        "order": 31,
         "chapter_number": 4
     }
 }

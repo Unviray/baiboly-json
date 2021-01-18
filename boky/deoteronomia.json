@@ -1028,6 +1028,7 @@
     },
     "meta": {
         "name": "Deoteronomia",
+        "order": 4,
         "chapter_number": 34
     }
 }

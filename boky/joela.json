@@ -80,6 +80,7 @@
     },
     "meta": {
         "name": "Joela",
+        "order": 28,
         "chapter_number": 3
     }
 }

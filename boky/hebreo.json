@@ -330,6 +330,7 @@
     },
     "meta": {
         "name": "Hebreo",
+        "order": 57,
         "chapter_number": 13
     }
 }

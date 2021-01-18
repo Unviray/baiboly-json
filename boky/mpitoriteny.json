@@ -247,6 +247,7 @@
     },
     "meta": {
         "name": "Mpitoriteny",
+        "order": 20,
         "chapter_number": 12
     }
 }

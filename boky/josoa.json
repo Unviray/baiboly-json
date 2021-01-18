@@ -707,6 +707,7 @@
     },
     "meta": {
         "name": "Josoa",
+        "order": 5,
         "chapter_number": 24
     }
 }

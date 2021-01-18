@@ -104,6 +104,7 @@
     },
     "meta": {
         "name": "Kolosianina",
+        "order": 50,
         "chapter_number": 4
     }
 }

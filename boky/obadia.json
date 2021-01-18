@@ -24,6 +24,7 @@
     },
     "meta": {
         "name": "Obadia",
+        "order": 30,
         "chapter_number": 1
     }
 }

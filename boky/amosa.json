@@ -165,6 +165,7 @@
     },
     "meta": {
         "name": "Amosa",
+        "order": 29,
         "chapter_number": 9
     }
 }

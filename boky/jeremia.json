@@ -1469,6 +1469,7 @@
     },
     "meta": {
         "name": "Jeremia",
+        "order": 23,
         "chapter_number": 52
     }
 }

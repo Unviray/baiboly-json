@@ -661,6 +661,7 @@
     },
     "meta": {
         "name": "Mpitsara",
+        "order": 6,
         "chapter_number": 21
     }
 }

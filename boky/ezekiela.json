@@ -1370,6 +1370,7 @@
     },
     "meta": {
         "name": "Ezekiela",
+        "order": 25,
         "chapter_number": 48
     }
 }

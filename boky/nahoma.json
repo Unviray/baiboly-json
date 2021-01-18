@@ -54,6 +54,7 @@
     },
     "meta": {
         "name": "Nahoma",
+        "order": 33,
         "chapter_number": 3
     }
 }

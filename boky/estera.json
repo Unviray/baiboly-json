@@ -188,6 +188,7 @@
     },
     "meta": {
         "name": "Estera",
+        "order": 16,
         "chapter_number": 10
     }
 }

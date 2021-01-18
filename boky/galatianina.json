@@ -162,6 +162,7 @@
     },
     "meta": {
         "name": "Galatianina",
+        "order": 47,
         "chapter_number": 6
     }
 }

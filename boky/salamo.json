@@ -2762,6 +2762,7 @@
     },
     "meta": {
         "name": "Salamo",
+        "order": 18,
         "chapter_number": 150
     }
 }

@@ -94,6 +94,7 @@
     },
     "meta": {
         "name": "Rota",
+        "order": 7,
         "chapter_number": 4
     }
 }

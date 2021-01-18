@@ -120,6 +120,7 @@
     },
     "meta": {
         "name": "Mika",
+        "order": 32,
         "chapter_number": 7
     }
 }

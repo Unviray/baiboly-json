@@ -1361,6 +1361,7 @@
     },
     "meta": {
         "name": "Nomery",
+        "order": 3,
         "chapter_number": 36
     }
 }
